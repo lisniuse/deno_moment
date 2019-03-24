@@ -11,7 +11,7 @@ Some small examples on the [moment.js](http://momentjs.com/docs/) official websi
 ```ts
 import { moment } from "https://deno.land/x/moment/moment.ts";
 // or
-import { moment } from "https://raw.githubusercontent.com/lisniuse/deno_moment/moment/moment.ts";
+import { moment } from "https://raw.githubusercontent.com/lisniuse/deno_moment/master/moment.ts";
 ```
 
 ### Cases
