@@ -9,9 +9,9 @@ Some small examples on the [moment.js](http://momentjs.com/docs/) official websi
 ### import
 
 ```ts
-import Drash from "https://deno.land/x/moment/moment.ts";
+import { moment } from "https://deno.land/x/moment/moment.ts";
 // or
-import Drash from "https://raw.githubusercontent.com/lisniuse/deno_moment/moment/moment.ts";
+import { moment } from "https://raw.githubusercontent.com/lisniuse/deno_moment/moment/moment.ts";
 ```
 
 ### Cases
